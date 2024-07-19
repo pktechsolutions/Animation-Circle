@@ -1,0 +1,38 @@
+{
+  "process_circle": {
+    "title": "Process Overview",
+    "description": "A circular representation of our key process steps.",
+    "segments": [
+      {
+        "id": 1,
+        "name": "Step 1: Research",
+        "description": "Gathering data and insights.",
+        "color": "#FF5733"
+      },
+      {
+        "id": 2,
+        "name": "Step 2: Planning",
+        "description": "Developing strategies and plans.",
+        "color": "#33FF57"
+      },
+      {
+        "id": 3,
+        "name": "Step 3: Execution",
+        "description": "Implementing the plans.",
+        "color": "#3357FF"
+      },
+      {
+        "id": 4,
+        "name": "Step 4: Analysis",
+        "description": "Monitoring and analyzing outcomes.",
+        "color": "#F1C40F"
+      },
+      {
+        "id": 5,
+        "name": "Step 5: Optimization",
+        "description": "Optimizing based on feedback.",
+        "color": "#9B59B6"
+      }
+    ]
+  }
+}
